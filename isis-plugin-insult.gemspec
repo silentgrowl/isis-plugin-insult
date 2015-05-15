@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = "1.0.0"
   spec.authors       = ["Brendon Rapp"]
   spec.email         = ["brendon@jaguardesignstudio.com"]
+  spec.license       = 'MIT'
 
   spec.summary       = %q{Isis plugin: Insult}
   spec.description   = %q{Isis plugin: Insult}
